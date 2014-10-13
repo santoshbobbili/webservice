@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Washington Post</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_main_activity">Washington Post</string>
+    <string name="image">Image thumbnail</string>
+</resources>
